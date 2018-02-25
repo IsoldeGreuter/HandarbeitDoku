@@ -1,9 +1,6 @@
-= Projekt
+= Handarbeit Dokumentation
 
-== index Document
 
-link:P1-ProjectName/document.adoc.html[Project1]
+== link:Kinderhose/document.html[Kinderhose]
 
-link:Project2/document.adoc.html[Project2]
-
-link:isi/document.adoc.html[Project2]
+== link:naehen1/document.html[Nähen 1]
